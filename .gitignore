@@ -1,0 +1,22 @@
+# KiCad : fichiers temporaires et locaux
+*-backups/
+*.kicad_prl
+*.lck
+*.bak
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*~
+_autosave-*
+fp-info-cache
+design-block-lib-table
+
+# Éditeur
+.history/
+.vscode/
+
+# Système
+desktop.ini
+Thumbs.db
+.DS_Store
+sym-lib-table
+fp-lib-table
