@@ -2,7 +2,7 @@
 
 Carte driver pour moteur pas à pas **NEMA 17**, pilotée en **CAN-FD** et **chaînable** (daisy-chain). Elle se fixe directement au dos du moteur et embarque un **encodeur magnétique 14 bits** pour connaître la position de l'arbre.
 
-![Rendu 3D](docs/img/render_3d.png)
+![Rendu 3D](./docs/img/render_3D.png)
 
 Conçue pour le projet **EduArm** (bras robotique éducatif).
 
@@ -77,7 +77,7 @@ Conçue pour le projet **EduArm** (bras robotique éducatif).
 
 ### Rendu 3D
 
-![Rendu 3D](./docs/img/render_3d.png)
+![Rendu 3D](./docs/img/render_3D.png)
 
 ---
 
